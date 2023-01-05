@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @arpantyagi
-- 👀 I’m interested in software, computers and cybersecurity, I want to use the great tools we have at our disposal to build a better world.
-- 🌱 I’m currently learning modern web devlopment React/Angular
+- 👀 I’m passionate about writing great Software, I am learning new things everyday. 
+- 🌱 I’m currently working as an Android App Developer.
+- 📱 My Tech-Stack includes, Kotlin, Android, Scala, Java, Python, Ktor.
+- 🥅 My goal this year is to publish my own app to Play Store.
 - 💞️ I’m looking to collaborate interesting projects where I can contribute and help community. 
-- 📫 How to reach me arpantyagiat@outlook.com
+- 📫 reach me out at: arpantyagiat@outlook.com
 
 <!---
 arpantyagi/arpantyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
