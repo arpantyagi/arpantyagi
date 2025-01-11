@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @arpantyagi
 - 👀 I’m passionate about writing great Software, I am learning new things everyday. 
-- 🌱 I’m currently working as an Android App Developer.
-- 📱 My Tech-Stack includes, Kotlin, Android, Scala, Java, Python, Ktor.
+- 🌱 I’m currently working as an iOS App Developer, I have previously also worked with Android app development.
+- 📱 My Tech-Stack includes Swift, SwiftUI, iOSDev, Kotlin, Android, Ktor.
 - 🥅 My goal this year is to publish my own app to Play Store.
-- 💞️ I’m looking to collaborate interesting projects where I can contribute and help community. 
 - 📫 reach me out at: arpantyagiat@outlook.com
 
 <!---
